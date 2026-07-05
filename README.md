@@ -1,16 +1,58 @@
-# React + Vite
+# 🎨 My Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated developer portfolio built to showcase my projects, skills, certifications, and journey into AI & Automation.
 
-Currently, two official plugins are available:
+### 🔗 Live Site
+**[adithya-r-portfolio.vercel.app](https://adithya-r-portfolio.vercel.app)**
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Animated hero section with typing effect
+- Glassmorphism UI with gradient backgrounds and floating particles
+- Scroll-reveal animations throughout every section
+- Fully responsive (mobile, tablet, desktop)
+- Skills section with animated progress bars
+- Project showcase cards with tech badges
+- Experience timeline (education + internship)
+- Certifications section
+- Working contact form + downloadable resume
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** (Vite)
+- **Tailwind CSS**
+- **Lucide React** (icons)
+- Custom CSS animations (no external animation library)
+
+## 📂 Sections
+
+| Section | Description |
+|---|---|
+| Hero | Intro, typing animation, CTA buttons |
+| About | Bio, education, location |
+| Skills | Animated skill bars |
+| Projects | AI Resume Analyzer, Sun Direct |
+| Experience | Timeline of education & internship |
+| Certifications | AI training & internship certificates |
+| Contact | Contact form + direct links |
+
+## 🚀 Getting Started (Run Locally)
+
+```bash
+git clone https://github.com/AdithyaR005/portfolio.git
+cd portfolio
+npm install
+npm run dev
+```
+
+## 📬 Contact
+
+- **Email:** adhithyar533@gmail.com
+- **LinkedIn:** [adithya-r-193ba6286](https://www.linkedin.com/in/adithya-r-193ba6286)
+- **GitHub:** [AdithyaR005](https://github.com/AdithyaR005)
+
+---
+
+⭐ If you like this project, consider giving it a star!
